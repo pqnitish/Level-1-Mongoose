@@ -1,0 +1,26 @@
+{
+  "name": "level-1-mongoose",
+  "version": "1.0.0",
+  "description": "User &amp; Product Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqnitish/Level-1-Mongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pqnitish/Level-1-Mongoose/issues"
+  },
+  "homepage": "https://github.com/pqnitish/Level-1-Mongoose#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "nodemon": "^3.1.4"
+  }
+}
